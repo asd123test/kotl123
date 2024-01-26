@@ -1,0 +1,47 @@
+/*fun main (){
+   test()
+}
+fun calculator (first_number:Float, second_number:Int, pes_patron:String) :String {
+    var num: String = ""
+    when (pes_patron) {
+        "-" -> {
+            num = (first_number - second_number).toString()
+        }
+        "+" -> {
+            num = (first_number + second_number).toString()
+        }
+        "*" -> {
+            num = (first_number * second_number).toString()
+        }
+        "/" -> {
+            num = (first_number / second_number).toString()
+        }
+        else -> "nepravilno"
+    }
+    return num
+}
+
+fun test (){
+    val num1 = readLine()?.toFloat()!!
+    val znak = readLine()!!
+    val num2 = readLine()!!.toInt()
+    println(calculator(num1, num2, znak))
+    calculator(num1,num2, znak)
+}
+
+fun test2 (){
+    val m:List <Int> = listOf(1,2,3,4,5,6,7,8,9)
+    val n:MutableList <Int> = mutableListOf(1,2,3,4,5,6,7,8,9)
+    n.add(9)
+    val v:Map <Int,Int> = mapOf()
+    val s:HashMap <Int,Int> = hashMapOf()
+
+
+}
+*/
+
+// Задание -> пользователь вводит числа, сохраняем числа в список, выводим самое большое число из списка
+fun task123 (){
+    val
+
+}
